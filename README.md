@@ -2,7 +2,7 @@
 Fall 2023
 
 Project Lead: Kavya Prasad (prasa189@umn.edu)
-Team Members: Tamojit Bera, Michael Larson, Akanksha Rai
+\nTeam Members: Tamojit Bera, Michael Larson, Akanksha Rai
 
 ## About GreenChoice
 GreenChoice encourages individuals to make greener choices in their daily lives. 
