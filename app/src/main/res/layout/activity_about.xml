@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DBD7D7"
+    android:orientation="horizontal"
+    tools:context=".AboutActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_gravity="center"
+                android:layout_width="450dp"
+                android:layout_height="150dp"
+                android:backgroundTint="#DBD7D7">
+
+                <!-- Oval Shape -->
+
+                <!-- Text on top of the Oval Shape -->
+
+                <ImageView
+                    android:layout_width="1500dp"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/circle_header" />
+
+                <TextView
+                    android:id="@+id/textView19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="About    GreenChoice"
+                    android:textAlignment="center"
+                    android:textSize="48sp"
+                    android:textStyle="bold"
+                    android:textColor="#533621"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.495"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.026" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="401dp"
+                android:layout_height="135dp"
+                android:text="GreenChoice is an app created with the goal of revolutionizing individuals’ view of sustainability through an informative, accessible mobile platform aimed at promoting the switch to a greener lifestyle."
+                android:textAlignment="center"
+                android:textColor="#533621"
+                android:textColorHint="#000000"
+                android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.276" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="406dp"
+                android:layout_height="347dp"
+                android:text="GreenChoice features a Media page, where users can access valuable resources to learn about the impact of sustainability and to gain insight into greener alternatives. GreenChoice also features a Choice Logger page, where users can keep track of the GreenChoices they make in the application. Simply
+select a category that the green alternative you did falls under, and enter information about your choice to keep track of your impacts. GreenChoice has an Impact page where users can see statistics correlating to specific positive impacts their GreenChoice made on the environment."
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:textColor="#533621"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.4"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.797" />
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="415dp"
+                android:layout_height="61dp"
+                android:text="Enjoy making the switch to greener alternatives through GreenChoice!"
+                android:textAlignment="center"
+                android:textColor="#533621"
+                android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.974" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="#533621"
+                android:onClick="goToActivity2"
+                android:text="Home"
+                android:textSize="28sp"
+                app:backgroundTint="@null"
+                app:iconTint="#533621"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.979" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

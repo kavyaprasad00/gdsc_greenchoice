@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+<!-- Base application theme. -->
+<style name="Theme.GreenChoice3" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">@color/background</item>
+    <!--        <item name="colorPrimaryVariant">@color/background</item>-->
+    <item name="colorOnPrimary">@color/text</item>
+    <!-- Secondary brand color. -->
+    <item name="colorSecondary">@color/header</item>
+    <!--        <item name="colorSecondaryVariant">@color/header</item>-->
+    <item name="colorOnSecondary">@color/title</item>
+    <!-- Status bar color. -->
+    <item name="android:statusBarColor">@color/header</item>
+    <!-- Customize your theme here. -->
+
+    <item name="colorAccent">@color/progressbar</item>
+    <item name="android:textColor">@color/text</item>
+    <item name="android:fontFamily">@font/josefin_sans_regular</item>
+    <item name="android:background">@color/background</item>
+    <item name="android:backgroundTint">@color/background</item>
+</style>
+</resources>

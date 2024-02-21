@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B2DBAB">
+
+    <Button
+        android:id="@+id/backbutton1"
+        android:layout_width="113dp"
+        android:layout_height="61dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="580dp"
+        android:background="#533621"
+        android:onClick="goToActivity2"
+        android:text="Home"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/mediaPageTitle"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:layout_marginTop="28dp"
+        android:gravity="center"
+        android:text="Media Page"
+        android:textColor="#266328"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+    <!-- About Me Button Section -->
+    <LinearLayout
+        android:id="@+id/aboutMeSection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/mediaPageTitle"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="About Me Icon"
+            android:scaleType="fitCenter"
+            android:src="@drawable/about_me" />
+
+        <Button
+            android:id="@+id/aboutMeButton"
+            android:layout_width="261dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="16dp"
+            android:background="@android:color/transparent"
+            android:text="About GreenChoice"
+            android:textAlignment="textStart"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <!-- News Button Section -->
+    <LinearLayout
+        android:id="@+id/newsSection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/videosSection"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="50dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="News Icon"
+            android:scaleType="fitCenter"
+            android:src="@drawable/news_article" />
+
+        <Button
+            android:id="@+id/newsButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:background="@android:color/transparent"
+            android:text="News"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/videosSection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/aboutMeSection"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="40dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"/>
+
+</RelativeLayout>

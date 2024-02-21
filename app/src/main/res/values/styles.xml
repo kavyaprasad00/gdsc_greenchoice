@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button" parent="AppTheme">
+
+        <item name="android:background">@color/progressbar</item>
+        <item name="android:backgroundTint">@color/progressbar</item>
+        <item name="android:textColor">@color/text</item>
+    </style>
+
+    <style name="header" parent="AppTheme">
+        <item name="android:backgroundTint">@color/background</item>
+        <item name="android:background">@color/background</item>
+        <item name="android:textColor">@color/title</item>
+    </style>
+
+</resources>

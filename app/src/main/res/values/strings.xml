@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GreenChoice</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="media_page">Information and Media</string>
+    <string name="title_impact">Impact Page</string>
+    <string name="header_description">Image used as header background</string>
+    <string name="daily_percent_label">0%</string>
+    <string name="impact_page_title">Your Impact</string>
+<!--    Stat 1-->
+    <string name="stat1_title">Water Bottles Saved</string>
+    <string name="stat1_quantity">0</string>
+    <string name="stat1_rank">top 100%</string>
+<!--    Stat 2-->
+    <string name="stat2_title">Co2 Reduced</string>
+    <string name="stat2_quantity">0 lbs</string>
+    <string name="stat2_rank">top 100%</string>
+<!--    Stat 3-->
+    <string name="stat3_title">Minutes of Public Transport</string>
+    <string name="stat3_quantity">0 minutes</string>
+    <string name="stat3_rank">top 100%</string>
+<!--    Stat 4-->
+    <string name="stat4_title">Trees Planted</string>
+    <string name="stat4_quantity">0 trees</string>
+    <string name="stat4_rank">top 100%</string>
+
+    <string name="increase_score">increase score</string>
+    <string name="decrease_score">decrease score</string>
+    <string name="space"> </string>
+</resources>

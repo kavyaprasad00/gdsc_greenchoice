@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="old_background">#A7D9A9</color>
+
+    <!-- plant object colors-->
+    <color name="brown_earth">#533621</color>
+    <color name="green_leaves">#87D62A</color>
+
+    <!-- Dark Mode -->
+    <color name="background">#575D80</color>
+    <color name="progressbar">#1A391C</color>
+    <color name="text">#D8D8D8</color>
+    <color name="title">#E2B595</color>
+    <color name="header">@color/progressbar</color>
+</resources>

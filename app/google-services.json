@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932259721514",
+    "project_id": "greenchoice-gdsc23",
+    "storage_bucket": "greenchoice-gdsc23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932259721514:android:c1d7fe4fe4a4ef99cfae53",
+        "android_client_info": {
+          "package_name": "gdsc.greenchoice3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8EX7_4W9FxobyKwkGVBlaoOX6ISxzELw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
