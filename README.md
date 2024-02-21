@@ -44,21 +44,21 @@ git clone https://github.com/kavyaprasad00/gdsc_greenchoice.git
 
 6. Navigate to Device Manager on the left side column. Select Create Device, Phones, and select Pixel 2.
 
-<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/b8352fd1-44d8-415d-a029-83460a284015" width="60%" height="60%"/>  
+<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/b8352fd1-44d8-415d-a029-83460a284015" width="300" height="410"/>  
   
-<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3149a492-6336-4c9f-9d1f-94552f609810" width="60%" height="60%"/>  
+<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3149a492-6336-4c9f-9d1f-94552f609810" width="300" height="410"/>  
 
 8. Then, download API 34, and select Finish. You've now created a new device.
    
-<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/da4f92f1-f0f2-48bc-a2ec-4d510b479b88" width="60%" height="60%"/>  
+<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/da4f92f1-f0f2-48bc-a2ec-4d510b479b88" width="300" height="410"/>  
 
 10. Click the green play button arrow in the upper right corner. Navigate to Running Devices or Device Manager on the left to see a device emulator pop up.  
 
-<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/1f8faba4-b527-4f31-bf12-839710bd33c5" width="60%" height="60%"/>  
+<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/1f8faba4-b527-4f31-bf12-839710bd33c5" width="300" height="410"/>  
 
 12. The app will be displayed on the emulator. Navigate through the app to see how it works!  
 
-<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3053db5f-16e6-4e2d-8799-02d61e9477c9" width="300" height="400"/>  
+<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3053db5f-16e6-4e2d-8799-02d61e9477c9" width="300" height="410"/>  
 
 Enjoy making the world a cleaner place one choice at a time with GreenChoice!
 
