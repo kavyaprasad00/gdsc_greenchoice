@@ -38,7 +38,7 @@ Another way to view the application without an Android device is through Android
 ```
 git clone https://github.com/kavyaprasad00/gdsc_greenchoice.git
 ```  
-Open File<img width="911" alt="Screenshot 2024-02-21 at 11 49 37 AM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/ae39e1c8-298b-4beb-a3a9-ed9ea38960c3"><img src="IMG_LINK" width="100" height="100"/>
+Open File<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/ae39e1c8-298b-4beb-a3a9-ed9ea38960c3" width="100" height="100"/>
 
 4. Open this new gdsc_greenchoice project in Android Studio with "Open"
 
