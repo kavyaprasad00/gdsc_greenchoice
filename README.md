@@ -1,7 +1,7 @@
 # GreenChoice - Google Developer Student Club Project 
 Fall 2023
 
-Project Lead: Kavya Prasad (prasa189@umn.edu)  
+Project Lead: Kavya Prasad (@kavyaprasad00)  
 Team Members: Tamojit Bera (@phantom660), Michael Larson (@TechWizMichael), Akanksha Rai (@akanksha-rai1411)
 
 ## About GreenChoice
