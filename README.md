@@ -46,7 +46,7 @@ git clone https://github.com/kavyaprasad00/gdsc_greenchoice.git
 
 <img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/b8352fd1-44d8-415d-a029-83460a284015" width="320" height="410"/>  
   
-<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3149a492-6336-4c9f-9d1f-94552f609810" width="380" height="390"/>   
+<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3149a492-6336-4c9f-9d1f-94552f609810" width="400" height="390"/>   
 
 8. Then, download API 34, and select Finish. You've now created a new device.
    
