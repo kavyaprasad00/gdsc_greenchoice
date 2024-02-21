@@ -50,7 +50,7 @@ git clone https://github.com/kavyaprasad00/gdsc_greenchoice.git
 
 8. Then, download API 34, and select Finish. You've now created a new device.
    
-<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/da4f92f1-f0f2-48bc-a2ec-4d510b479b88" width="400" height="410"/>  
+<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/da4f92f1-f0f2-48bc-a2ec-4d510b479b88" width="400" height="390"/>  
 
 10. Click the green play button arrow in the upper right corner. Navigate to Running Devices or Device Manager on the left to see a device emulator pop up.  
 
