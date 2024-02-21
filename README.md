@@ -16,7 +16,9 @@ Climate Action             |  Responsible Consumption & Production
 :-------------------------:|:-------------------------:
 <img width="300" alt="Screen Shot 2023-10-06 at 11 48 21 PM" src="https://media.github.umn.edu/user/25141/files/e6568b1f-e402-442a-aa96-548e1f8455dd">  |  <img width="300" alt="Screen Shot 2023-10-06 at 11 49 32 PM" src="https://media.github.umn.edu/user/25141/files/28257dd6-43a4-4300-a497-4d8174c7c0b2">  
 
-## Running GreenChoice on Android 
+# Running GreenChoice 
+
+## On Android 
 
 Because GreenChoice is an application developed using Android Studio, it can only be downloaded and run on Android devices.  
 
@@ -27,30 +29,36 @@ Because GreenChoice is an application developed using Android Studio, it can onl
 5. Open greenchoice.apk, tap download and allow the application to install. (You may get an unsafe installation notification on your device. Press download anyways to allow the app to download)
 6. Enjoy the application!
 
-## Running GreenChoice with Gradle (On Computer)
+## With Gradle (On Computer)
 
 Another way to view the application without an Android device is through Android Studio.  
 
 1. Install and set up ([Android Studio](https://developer.android.com/studio/install?gad_source=1&gclid=CjwKCAiA29auBhBxEiwAnKcSqszo-kglZ7BVLiWmjqlCQqPeIxUbL7alE9QoVMeccPvZbro9v2nfXRoC1zIQAvD_BwE&gclsrc=aw.ds)).
 2. Git clone this repository by going to the green "<> Code" button in the main branch, copy the HTTPS link, and type in "git clone" followed by the link. Or copy the line below:
-'''
+```
 git clone https://github.com/kavyaprasad00/gdsc_greenchoice.git
-'''
-Open File<img width="911" alt="Screenshot 2024-02-21 at 11 49 37 AM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/ae39e1c8-298b-4beb-a3a9-ed9ea38960c3">
-3. Open this new gdsc_greenchoice project in Android Studio with "Open"
-4. Navigate to Device Manager on the left side column. Select Create Device, Phones, and select Pixel 2.
-<img width="545" alt="Screenshot 2024-02-21 at 11 59 45 AM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/b8352fd1-44d8-415d-a029-83460a284015">
-<img width="985" alt="Screenshot 2024-02-21 at 12 08 09 PM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3149a492-6336-4c9f-9d1f-94552f609810">
-6. Then, download API 34, and select Finish. You've now created a new device.  
-<img width="985" alt="Screenshot 2024-02-21 at 12 02 47 PM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/da4f92f1-f0f2-48bc-a2ec-4d510b479b88">
+```  
+Open File<img width="911" alt="Screenshot 2024-02-21 at 11 49 37 AM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/ae39e1c8-298b-4beb-a3a9-ed9ea38960c3"><img src="IMG_LINK" width="100" height="100"/>
 
-8. Click the green play button arrow in the upper right corner. Navigate to Running Devices or Device Manager on the left to see a device emulator pop up.
-<img width="461" alt="Screenshot 2024-02-21 at 11 59 45 AM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/1f8faba4-b527-4f31-bf12-839710bd33c5">  
+4. Open this new gdsc_greenchoice project in Android Studio with "Open"
 
-10. The app will be displayed on the emulator. Navigate through the app to see how it works!
-<img width="485" alt="Screenshot 2024-02-21 at 12 00 05 PM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3053db5f-16e6-4e2d-8799-02d61e9477c9">
+6. Navigate to Device Manager on the left side column. Select Create Device, Phones, and select Pixel 2.
 
+<img width="545" alt="Screenshot 2024-02-21 at 11 59 45 AM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/b8352fd1-44d8-415d-a029-83460a284015">  
 
+<img width="985" alt="Screenshot 2024-02-21 at 12 08 09 PM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3149a492-6336-4c9f-9d1f-94552f609810">  
+
+8. Then, download API 34, and select Finish. You've now created a new device.
+  
+<img width="985" alt="Screenshot 2024-02-21 at 12 02 47 PM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/da4f92f1-f0f2-48bc-a2ec-4d510b479b88">  
+
+10. Click the green play button arrow in the upper right corner. Navigate to Running Devices or Device Manager on the left to see a device emulator pop up.  
+<img width="461" alt="Screenshot 2024-02-21 at 11 59 45 AM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/1f8faba4-b527-4f31-bf12-839710bd33c5">    
+
+11. The app will be displayed on the emulator. Navigate through the app to see how it works!  
+<img width="485" alt="Screenshot 2024-02-21 at 12 00 05 PM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3053db5f-16e6-4e2d-8799-02d61e9477c9">  
+
+Enjoy making the world a cleaner place one choice at a time with GreenChoice!
 
 
 
