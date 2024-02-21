@@ -19,7 +19,7 @@ Climate Action             |  Responsible Consumption & Production
 ## Running GreenChoice on Android 
 
 1. Enable the installation of APK Files on your device (if this is not enabled already): Settings > Apps > Menu > Special access > Install unknown apps.
-2. Download this [greenchoice.apk] (greenchoice.apk) file onto your device.
+2. Download this [greenchoice.apk] ([greenchoice.apk](https://kavyaprasad00.github.io/download_app/greenchoice.apk)) file onto your device.
 3. Tap download and allow the application to install. (You may get an unsafe installation notification on your device. Press download anyways to allow the app to download)
 
 
