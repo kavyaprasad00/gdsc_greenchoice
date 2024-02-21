@@ -58,7 +58,7 @@ git clone https://github.com/kavyaprasad00/gdsc_greenchoice.git
 
 12. The app will be displayed on the emulator. Navigate through the app to see how it works!  
 
-<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3053db5f-16e6-4e2d-8799-02d61e9477c9" width="300" height="300"/>  
+<img src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3053db5f-16e6-4e2d-8799-02d61e9477c9" width="300" height="400"/>  
 
 Enjoy making the world a cleaner place one choice at a time with GreenChoice!
 
