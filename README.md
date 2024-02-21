@@ -2,7 +2,7 @@
 Fall 2023
 
 Project Lead: Kavya Prasad (prasa189@umn.edu)  
-Team Members: Tamojit Bera, Michael Larson, Akanksha Rai
+Team Members: Tamojit Bera (@phantom660), Michael Larson (@TechWizMichael), Akanksha Rai (@akanksha-rai1411)
 
 ## About GreenChoice
 GreenChoice encourages individuals to make greener choices in their daily lives. 
@@ -18,18 +18,39 @@ Climate Action             |  Responsible Consumption & Production
 
 ## Running GreenChoice on Android 
 
-1. Enable the installation of APK Files on your device (if this is not enabled already): Settings > Apps > Menu > Special access > Install unknown apps.
-2. Download this ([greenchoice.apk](https://github.com/kavyaprasad00/gdsc_greenchoice/releases/tag/1.2.4)) file onto your device.
-3. Tap download and allow the application to install. (You may get an unsafe installation notification on your device. Press download anyways to allow the app to download)
+Because GreenChoice is an application developed using Android Studio, it can only be downloaded and run on Android devices.  
+
+1. Open this ([greenchoice.apk](https://github.com/kavyaprasad00/gdsc_greenchoice/releases/tag/1.2.4)).
+2. Download the Source Code (zip) version onto your device and unzip it.
+3. Download and send the greenchoice.apk file onto your Android device.
+4. Enable the installation of APK Files on your device (if this is not enabled already): Settings > Apps > Menu > Special access > Install unknown apps.
+5. Open greenchoice.apk, tap download and allow the application to install. (You may get an unsafe installation notification on your device. Press download anyways to allow the app to download)
+6. Enjoy the application!
+
+## Running GreenChoice with Gradle (On Computer)
+
+Another way to view the application without an Android device is through Android Studio.  
+
+1. Install and set up ([Android Studio](https://developer.android.com/studio/install?gad_source=1&gclid=CjwKCAiA29auBhBxEiwAnKcSqszo-kglZ7BVLiWmjqlCQqPeIxUbL7alE9QoVMeccPvZbro9v2nfXRoC1zIQAvD_BwE&gclsrc=aw.ds)).
+2. Git clone this repository by going to the green "<> Code" button in the main branch, copy the HTTPS link, and type in "git clone" followed by the link. Or copy the line below:
+'''
+git clone https://github.com/kavyaprasad00/gdsc_greenchoice.git
+'''
+Open File<img width="911" alt="Screenshot 2024-02-21 at 11 49 37 AM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/ae39e1c8-298b-4beb-a3a9-ed9ea38960c3">
+3. Open this new gdsc_greenchoice project in Android Studio with "Open"
+4. Navigate to Device Manager on the left side column. Select Create Device, Phones, and select Pixel 2.
+<img width="545" alt="Screenshot 2024-02-21 at 11 59 45 AM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/b8352fd1-44d8-415d-a029-83460a284015">
+<img width="985" alt="Screenshot 2024-02-21 at 12 08 09 PM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3149a492-6336-4c9f-9d1f-94552f609810">
+6. Then, download API 34, and select Finish. You've now created a new device.  
+<img width="985" alt="Screenshot 2024-02-21 at 12 02 47 PM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/da4f92f1-f0f2-48bc-a2ec-4d510b479b88">
+
+8. Click the green play button arrow in the upper right corner. Navigate to Running Devices or Device Manager on the left to see a device emulator pop up.
+<img width="461" alt="Screenshot 2024-02-21 at 11 59 45 AM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/1f8faba4-b527-4f31-bf12-839710bd33c5">  
+
+10. The app will be displayed on the emulator. Navigate through the app to see how it works!
+<img width="485" alt="Screenshot 2024-02-21 at 12 00 05 PM" src="https://github.com/kavyaprasad00/gdsc_greenchoice/assets/114117110/3053db5f-16e6-4e2d-8799-02d61e9477c9">
 
 
 
-The easiest way to build is to install Android Studio. Once installed, then you can import this project into Android Studio:
-
-Open File
-Import Project
-Select build.gradle under the project directory
-Click OK
-Then, Gradle will do everything for you.
 
 
