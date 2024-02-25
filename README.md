@@ -6,7 +6,7 @@ Team Members: Tamojit Bera (@phantom660), Michael Larson (@TechWizMichael), Akan
 ## About GreenChoice
 GreenChoice encourages individuals to make greener choices in their daily lives. 
 
-GreenChoice is a mobile application that encourages the use of greener alternatives in individuals’ daily lives. This all-in one application enables users to track their green chocies and get informed on the impact of these choices. The application houses in-game features to incentivize the usage of greener choices. It houses impact features, educational information, and the option to track the green choices individuals are making in their day. 
+GreenChoice is a mobile application that encourages the use of greener alternatives in individuals’ daily lives. This all-in one application enables users to track their green choices and get informed on the impact of these choices. The application houses in-game features to incentivize the usage of greener choices. It houses impact features, educational information, and the option to track the green choices individuals are making in their day. 
 
 ##### GreenChoice was developed using Android Studio, Java, and Firebase
 
